@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    font-weight: bold;
+    background-image: url("http://7-themes.com/data_images/out/72/7017609-dota-2-wallpaper-hd.jpgsecondverst/dota.jpg")
+
+}
+
+.avatar{ 
+    width: 350px; 
+    border-radius: 10px;
+}
+
+.info{
+    display: flex;
+}
+
+.info-text{
+    margin-left: 40px;
+}
+
+
+
